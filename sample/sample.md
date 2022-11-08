@@ -7,6 +7,7 @@ This is an sample page
 
 ### Image
 ![arman](Arman.png)
+![Logo](Logo.png)
 
 ### Blockquote
 
